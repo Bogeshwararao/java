@@ -1,3 +1,4 @@
+package introduction;
 import java.util.Scanner;
 
 public class output {
