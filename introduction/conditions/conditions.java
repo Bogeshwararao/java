@@ -9,7 +9,21 @@ public class conditions {
         }else {
             System.out.println(b+" is grater than the "+ a);
         }
+
+        //******************************** Short hand if else ****************************\\
+        int time = 11;
+        String result = (time <= 12) ? "Good Morning." : "Good evening.";
+        System.out.println(result);
         
     }
            
 }
+/*Sytax:
+        if (condition 1){
+            //body
+        }else{
+            //body
+        }
+ */
+ 
+ 
