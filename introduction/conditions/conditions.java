@@ -18,6 +18,13 @@ public class conditions {
     }
            
 }
+/*******************************IF ********************************* */
+/*
+if (condition 1){
+            //body
+        } 
+        */
+/*******************************IF ELSE *****************************/
 /*Sytax:
         if (condition 1){
             //body
@@ -25,5 +32,17 @@ public class conditions {
             //body
         }
  */
+/******************************NESTED IF  ***********************/
+ /*
+  * if (condition 1){
+            //body
+        }else if{
+            //body
+        }else if{
+            //body
+        }else{
+            //body
+        }
+  */
  
  
