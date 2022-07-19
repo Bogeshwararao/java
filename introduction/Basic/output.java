@@ -1,4 +1,4 @@
-package introduction;
+package introduction.Basic;
 import java.util.Scanner;  // We have to import this to get input from the user
 
 public class output {
