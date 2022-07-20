@@ -1,3 +1,5 @@
+// ************STDIN AND STDOUT ************
+
 package HackerRank;
 import java.util.Scanner;
 public class SecondProblem {
