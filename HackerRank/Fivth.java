@@ -1,7 +1,9 @@
+//***************************OUTPUT FORMATE********************* */
+
 package HackerRank;
 import java.io.*;
 import java.util.*;
-public class outputformate {
+public class Fivth {
     
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
