@@ -21,13 +21,13 @@ public class practice {
         //        if (n%2==0){
         //         System.out.println("huyfyt");
         //        }
-        Scanner in = new Scanner(System.in);
-        Long a = in.nextInt();
-        Long b = in.nextLine();
-        Long sum = a+b;
-        Long prod = a*b;
-        System.out.println(sum);
-        System.out.println(prod);
+        // Scanner in = new Scanner(System.in);
+        // Long a = in.nextInt();
+        // Long b = in.nextLine();
+        // Long sum = a+b;
+        // Long prod = a*b;
+        // System.out.println(sum);
+        // System.out.println(prod);
 
 
 
