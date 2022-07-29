@@ -1,4 +1,10 @@
+/*******************************STACTIC INITIALIZOR BLOCK********************/
+
+
 package HackerRank;
+
+
+
 import java.util.*;
 public class Eight {
         public static void main(String[] args) {
