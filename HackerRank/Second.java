@@ -2,7 +2,7 @@
 
 package HackerRank;
 import java.util.Scanner;
-public class SecondProblem {
+public class Second{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 String myString = scanner.next();
