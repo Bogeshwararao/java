@@ -7,6 +7,12 @@ public class Main {
         list.insertFirst(2);
         list.insertFirst(8);
         list.insertFirst(17);
+        
+        list.insertLast(23);
+        list.Insert(12,3);
+        list.display();
+        list.deleteFirst();
+       System.out.println(list.deleteLast()); 
         list.display();
     }
 }
