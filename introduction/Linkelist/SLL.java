@@ -1,6 +1,6 @@
 package introduction.Linkelist;
 
-public class LL {
+public class SLL {
     private class Node {
         private int value;
         private Node next;
@@ -19,7 +19,7 @@ public class LL {
     private Node tail;
     private int size;
 
-    public LL() {
+    public SLL() {
         this.size = 0;
     }
     public Node get(int index){
@@ -106,7 +106,7 @@ public class LL {
     }
       
     public static void main(String[] args) {
-        LL list = new LL();
+        SLL list = new SLL();
         list.insertFirst(3);
         list.insertFirst(2);
         list.insertFirst(8);
